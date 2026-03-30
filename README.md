@@ -13,8 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Michael Launer
-
 Developer working across WordPress, design systems, and custom front-end architecture.  
 Part of Teal Media. Exploring under Mostly Wanted.
 
